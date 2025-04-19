@@ -1,27 +1,46 @@
-## Hello, welcome to my GitHub!👋 I'm Marcos Oliveira. And I'm a beginner in DevOps Engineering.
-<div>
-     <a href="https://github.com/MarcOliveiraPT">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcOliveiraPT&show_icons=true&theme=default&include_all_commits=true&count_private=true" />
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcOliveiraPT&layout=compact&langs_count=16&theme=default_repocard" />
+<h2 align="left">Hi👋! My name is Marcos And I'm a beginner in DevOps Engineering.</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcOliveiraPT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcOliveiraPT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-##
+###
 
-<div style="display: inline_block">
-     <img height="50em" src="https://github-readme-stats.vercel.app/api/stats-card/?username-MarcOliveiraPT&layout=compact&langs_count=16&theme=default_repocard"/>
-          <img  align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />       
-          <img  align="center" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg" />
-          <img  align="center" alt="Ansible" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-plain-wordmark.svg" />
-          
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="30" alt="ansible logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="30" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="30" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="30" alt="vagrant logo"  />
 </div>
 
-##
+###
 
-<div>
-     <a href-"https://instagram.com/by_marcosoliveira" target="_blank"><img src="https://www.flaticon.com/free-icon/instagram_2111463?term=social+media&page=1&position=2&origin=tag&related_id=2111463" target="_blank"></img></a>
-     https://img.shields.io/badge/-Instagram-X23E4405F?style=for-the-badge&logo-instagram&logoColor=white
-     
-     <a href - "mailto:contato@rafaballerini.tech"><img src="https://img.shields.io/badge/-Gmail-%23333?style-for-the-badge&logo-gmail&logoColor-white" target="_blank"></a>
-     <a href="https://www.linkedin.com/in/marcosfernandesdeoliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-X230077B5?style=for-the-
-badge&logo-linkedin&logoColor-white" target="_blank"></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/marcosfernandesdeoliveira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/by_marcosoliveira/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/bymarcosoliveira" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://x.com/by_marcosolivei" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="mailto: "marcos.f.oliveira@live.com"" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
 </div>
