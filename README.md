@@ -1,5 +1,8 @@
 # 🧑🏽‍💻 Marcos Oliveira
 **`DevOps Engineer`**
+
+I am a Production Engineer passionate about technology, currently immersing myself in the DevOps universe with enthusiasm and dedication. With over 5 years of experience leading teams and optimizing processes in complex projects, I bring valuable skills in management, problem-solving, and quick learning to build efficient pipelines and collaborate in agile teams. I am seeking my first opportunity as a DevOps Engineer, ready to turn challenges into innovative solutions. Let's build the future of technology together? 🚀
+
 ## ❤️ Social Media
 <div align="left">
   <a href="https://www.linkedin.com/in/marcosfernandesdeoliveira/" target="_blank">
