@@ -20,19 +20,63 @@
 </div>
 
 ## 🤖 Technologies
-<div align="left">    
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ansible" height="30" alt="ansible logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=grafana" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+<div align="left">
+<img
+  align="left"
+  alt="AWS"
+  title="AWS"
+  width="30px"
+  style="padding-right: 10px"
+  background-color="#FFFFFF" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+  />
+<img
+  align="left"
+  alt="ansible"
+  title="ansible"
+  width="30px"
+  style="padding-right: 10px"
+  background-color="#FFFFFF"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original-wordmark.svg"
+/>
+<img
+  align="left"
+  alt="docker"
+  title="docker"
+  width="30px"
+  style="padding-right: 10px"
+  style="background-color: lightblue;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
+/>       
+<img
+  align="left"
+  alt="docker"
+  title="docker"
+  width="30px"
+  style="padding-right: 10px"
+  background-color="#FFFFFF"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg"
+/>
+<img
+  align="left"
+  alt="docker"
+  title="docker"
+  width="30px"
+  style="padding-right: 10px"
+  background-color="#FFFFFF"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original-wordmark.svg"
+/>
+<img
+  align="left"
+  alt="docker"
+  title="docker"
+  width="30px"
+  style="padding-right: 10px"
+  background-color="#FFFFFF"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
+/>
 </div>
+<br></br>
 
 ## 📈 Statistic
 <div align="left">
